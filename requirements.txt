@@ -1,6 +1,7 @@
 Django==4.0.5
+wheel
 djangorestframework==3.13.1
-psycopg2-binary==2.9.3
+psycopg2-binary
 Pillow==9.1.1
 python-decouple
 django-filter
